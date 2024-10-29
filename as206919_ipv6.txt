@@ -1,0 +1,6 @@
+policy-options {
+replace:
+ prefix-list as206919_ip6 {
+    2a05:dfc1:1600::/40;
+ }
+}

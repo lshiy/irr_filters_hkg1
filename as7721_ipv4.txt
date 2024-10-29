@@ -1,0 +1,7 @@
+policy-options {
+replace:
+ prefix-list as7721_ip4 {
+    44.31.43.0/24;
+    203.91.64.0/19;
+ }
+}

@@ -1,0 +1,5 @@
+policy-options {
+replace:
+ prefix-list as203023_ip6 {
+ }
+}

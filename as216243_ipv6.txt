@@ -1,0 +1,7 @@
+policy-options {
+replace:
+ prefix-list as216243_ip6 {
+    2a13:a5c4::/32;
+    2a13:a5c7:1500::/40;
+ }
+}
